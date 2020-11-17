@@ -1,0 +1,10 @@
+All purpose flour,
+unsweetened cocoa powder,
+baking powder,
+baking soda,
+salt,
+white granulated sugar,
+eggs,
+milk,
+vegetable oil,
+vanilla extract
